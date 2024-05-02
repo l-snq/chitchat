@@ -1,0 +1,23 @@
+{
+  "name": "chitclient",
+  "version": "1.0.0",
+  "description": "client side for chitchat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tastetest/chitchat.git"
+  },
+  "author": "ttj//d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tastetest/chitchat/issues"
+  },
+  "homepage": "https://github.com/tastetest/chitchat#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io-client": "^4.7.5"
+  }
+}
